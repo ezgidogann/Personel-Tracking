@@ -1,0 +1,15 @@
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\bin\Debug\netcoreapp3.1\personnelTracking.exe
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\bin\Debug\netcoreapp3.1\personnelTracking.deps.json
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\bin\Debug\netcoreapp3.1\personnelTracking.runtimeconfig.json
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\bin\Debug\netcoreapp3.1\personnelTracking.runtimeconfig.dev.json
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\bin\Debug\netcoreapp3.1\personnelTracking.dll
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\bin\Debug\netcoreapp3.1\personnelTracking.pdb
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\obj\Debug\netcoreapp3.1\personnelTracking.csproj.AssemblyReference.cache
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\obj\Debug\netcoreapp3.1\personnelTracking.Form1.resources
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\obj\Debug\netcoreapp3.1\personnelTracking.csproj.GenerateResource.cache
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\obj\Debug\netcoreapp3.1\personnelTracking.AssemblyInfoInputs.cache
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\obj\Debug\netcoreapp3.1\personnelTracking.AssemblyInfo.cs
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\obj\Debug\netcoreapp3.1\personnelTracking.csproj.CoreCompileInputs.cache
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\obj\Debug\netcoreapp3.1\personnelTracking.dll
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\obj\Debug\netcoreapp3.1\personnelTracking.pdb
+C:\Users\HP\personnel tracking\personnelTracking\personnelTracking\obj\Debug\netcoreapp3.1\personnelTracking.genruntimeconfig.cache
